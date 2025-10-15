@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937783707123",
+    "project_id": "dataforgotpass",
+    "storage_bucket": "dataforgotpass.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937783707123:android:3a39bc086fbe5c163ebe86",
+        "android_client_info": {
+          "package_name": "com.example.baitaptuan4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-FkbZH1EWyIiiVkgeEu7j-uPVXHClFAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
