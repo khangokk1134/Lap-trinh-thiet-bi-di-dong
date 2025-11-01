@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "765394760447",
+    "project_id": "firestore-demo-khang",
+    "storage_bucket": "firestore-demo-khang.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765394760447:android:c0b3463668f02823c812ca",
+        "android_client_info": {
+          "package_name": "com.example.firestore_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzzm3zpUor46zov2Ev7H9By7A54ekvX7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
